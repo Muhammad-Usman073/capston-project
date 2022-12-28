@@ -1,5 +1,5 @@
-import "../CategoryItem/category-item/categories.styles.scss";
-import Directory from "../Directory/Directory.component";
+import "../../../Components/CategoryItem/category-item/categories.styles.scss";
+import Directory from "../../Directory/Directory.component";
 const Home = () => {
   const categories = [
     {
